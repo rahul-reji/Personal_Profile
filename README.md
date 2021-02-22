@@ -1,3 +1,3 @@
 # Personal Profile
 
-Repository created as a part of OSS Assignment 3.
+Repository created to display personal profile.
